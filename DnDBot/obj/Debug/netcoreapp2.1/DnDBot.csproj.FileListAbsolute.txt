@@ -1,0 +1,11 @@
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\bin\Debug\netcoreapp2.1\DnDBot.deps.json
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\bin\Debug\netcoreapp2.1\DnDBot.runtimeconfig.json
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\bin\Debug\netcoreapp2.1\DnDBot.runtimeconfig.dev.json
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\bin\Debug\netcoreapp2.1\DnDBot.dll
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\obj\Debug\netcoreapp2.1\DnDBot.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\obj\Debug\netcoreapp2.1\DnDBot.AssemblyInfoInputs.cache
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\obj\Debug\netcoreapp2.1\DnDBot.AssemblyInfo.cs
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\bin\Debug\netcoreapp2.1\DnDBot.pdb
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\obj\Debug\netcoreapp2.1\DnDBot.dll
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\obj\Debug\netcoreapp2.1\DnDBot.pdb
+C:\Users\Hayden\source\repos\DnDBot\DnDBot\obj\Debug\netcoreapp2.1\DnDBot.csprojAssemblyReference.cache
